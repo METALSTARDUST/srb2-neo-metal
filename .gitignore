@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+# Nada do jogo, de modelos, texturas ou renders entra aqui
+*.pk3
+*.wad
+*.md3
+*.fbx
+*.blend
+*.blend1
+*.png
+*.jpg
+*.zip
+*.json
